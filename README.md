@@ -2,7 +2,7 @@
 -------------------------
 ### Run p2pool-Google-Colab
 
-https://colab.research.google.com/drive/1yJoIkmqWXzRwio01ieLfFgaaLEUOuMpX?authuser=4
+https://colab.research.google.com/drive/1yJoIkmqWXzRwio01ieLfFgaaLEUOuMpX?usp=sharing
 
 -------------------------
 
