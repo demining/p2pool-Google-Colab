@@ -102,16 +102,11 @@ and restart litecoind:
     rpcport=10332
     port=10333
 
-Sponsors:
--------------------------
 
-Thanks to:
-* The Bitcoin Foundation for its generous support of P2Pool
-* The Litecoin Project for its generous donations to P2Pool
- 
-License:
--------------------------
+----
 
-[Available here](COPYING)
-
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
 
