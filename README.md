@@ -43,9 +43,6 @@ Run for additional options.
 
     python run_p2pool.py --help
 
-Donations towards further development:
--------------------------
-    1HNeqi3pJRNvXybNX4FKzZgYJsdTSqJTbk
 
 Official wiki:
 -------------------------
